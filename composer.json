@@ -1,7 +1,7 @@
 {
     "name": "rosgear/rg-be-mp-wmanager",
-    "description": "Extension (module) \"Widget Manager\" for the GePanel Control Panel",
-    "keywords": ["rosgear", "gepanel", "extension (module)"],
+    "description": "Module extension \"Widget Manager\" for the GePanel Control Panel",
+    "keywords": ["rosgear", "gepanel", "module", "extension"],
     "homepage": "https://rosgear.ru/component/rg-be-mp-wmanager/",
     "type": "component",
     "license": "MIT",
