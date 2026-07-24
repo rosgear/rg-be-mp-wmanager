@@ -18,7 +18,7 @@
     "extra": {
         "ge": {
             "id": "rg.be.mp.wmanager",
-            "vendor": "ge"
+            "vendor": "rg"
         }
     },
     "minimum-stability": "dev",
